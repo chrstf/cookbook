@@ -7,7 +7,7 @@ import re
 
 readme_header = '''---
 layout: home
-title: zettelkasten
+title: N27 cookbook
 permalink: /
 ---
 '''
