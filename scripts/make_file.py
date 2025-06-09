@@ -22,10 +22,20 @@ def make_new_post(title: str, category: str, keywords: list):
     if keywords is None:
         keywords = [category]
     out = make_head(title, category, keywords)
-    out += '\n\n# Graphics example\n\n'
-    out += '![example]({{site.baseurl}}/assets/dinosaur.gif)\n\n'
-    out += '# References\n\n'
-    out += '| <https://duckduckgo.com/>'
+    # out += '\n\n# Graphics example\n\n'
+    out += '\n\n'
+    out += '[Rezept PDF]({{site.baseurl}}/assets/pdf/1.pdf)\n\n'
+    out += '\n\n# Ingredients\n\n'
+    out += 'Amount | Item\n'
+    out += '-------|-----\n'
+    out += '1      | Item\n\n'
+    out += '# Recipe Preparation\n\n'
+    out += '# Notes\n\n'
+    out += 'Recipe Number | x\n'
+    out += '--------------|---\n'
+    out += 'Author        | Christophe\n'
+    out += 'Date          | dd.mm.yyyy\n'
+
     return out
 
 
