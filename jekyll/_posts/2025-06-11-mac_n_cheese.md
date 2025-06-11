@@ -3,7 +3,7 @@ title: Mac and cheese
 category: savory
 date: 2025-06-11
 keywords:
-- savory
+- pasta
 layout: post
 ---
 
