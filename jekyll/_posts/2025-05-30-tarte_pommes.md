@@ -1,3 +1,11 @@
+---
+title: Tarte aux pommes
+category: sweet
+date: 2025-05-30
+keywords:
+- sweet
+layout: post
+---
 Étape 1
 
 Éplucher et découper en morceaux 4 Golden.
