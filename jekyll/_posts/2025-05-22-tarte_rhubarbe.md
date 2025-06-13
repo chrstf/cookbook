@@ -7,7 +7,39 @@ keywords:
 layout: post
 ---
 
-https://www.marmiton.org/recettes/recette_tarte-a-la-rhubarbe-facile-et-rapide_37644.aspx
+# Recette 1
+
+## Ingrédients
+
+Quantité            | Ingrédient
+--------------------|-----------
+7 cuillères à soupe | sucre 
+1                   | fond de pâte brisée (250 g farine)
+800 g               | rhubarbe (attention, les feuilles sont toxiques)
+3                   | oeufs
+250 mL              | crème
+1 grosse cuillère   | chapelure ou de semoule
+
+## Préparation
+
+
+1. Prendre un moule en porcelaine ou en verre. Y étendre la pâte feuilletée, la recouvrir d'une fine couche de chapelure pour absorber l'eau de la rhubarbe.
+2. Laver et bien sécher les tiges de rhubarbe,
+3. Couper en morceaux de 1 cm (avec des ciseaux), puis placer sur tarte.
+4. Faire cuire 20 mn à 200°C.
+5. Préparer le flan en mélangeant 2 jaunes d'œufs, 3 cuillères à soupe de sucre et 25 cl de crème.
+6. Verser l'appareil sur la tarte. Cuire 15 mn à 180° (jusqu'à ce que le flan soit solide).
+7. Battre en neige ferme 3 blancs d' œufs avec 4 cuillères à soupe de sucre. Mettre sur la tarte.
+8. Cuire 15 mn à 150°C.
+9. Parfois difficile à démouler, c'est pourquoi il vaut mieux prendre un moule en porcelaine ou en verre.
+
+<https://www.marmiton.org/recettes/recette_tarte-a-la-rhubarbe_14305.aspx>
+
+--------------------------
+
+# Recette 2
+
+## Préparation
 
 Étape 1
 
@@ -25,36 +57,5 @@ Mélanger ensemble les 2 oeufs, le sucre et la crème + la cannelle (facultatif)
 Enfournez environ 30 minutes.
 
 
+<https://www.marmiton.org/recettes/recette_tarte-a-la-rhubarbe-facile-et-rapide_37644.aspx>
 -----------------
-https://www.marmiton.org/recettes/recette_tarte-a-la-rhubarbe_14305.aspx
-
-Étape 1
-
-Prendre un moule en porcelaine ou en verre. Y étendre la pâte feuilletée, la recouvrir d'une fine couche de chapelure pour absorber l'eau de la rhubarbe.
-
-Étape 2
-
-Laver et bien sécher les tiges de rhubarbe,
-
-Étape 3
-Couper en morceaux de 1 cm (avec des ciseaux), puis placer sur tarte.
-
-Étape 4
-Faire cuire 20 mn à 200°C.
-
-Étape 5
-
-Préparer le flan en mélangeant 2 jaunes d'œufs, 3 cuillères à soupe de sucre et 25 cl de crème.
-
-Étape 6
-Verser l'appareil sur la tarte. Cuire 15 mn à 180° (jusqu'à ce que le flan soit solide).
-
-Étape 7
-
-Battre en neige ferme 3 blancs d' œufs avec 4 cuillères à soupe de sucre. Mettre sur la tarte.
-
-Étape 8
-Cuire 15 mn à 150°C.
-
-Étape 9
-Parfois difficile à démouler, c'est pourquoi il vaut mieux prendre un moule en porcelaine ou en verre.
